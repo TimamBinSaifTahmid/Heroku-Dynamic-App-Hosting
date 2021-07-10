@@ -1,0 +1,35 @@
+{
+  "name": "Design_Project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "env": "0.0.2",
+    "express": "^4.17.1",
+    "googleapis": "^80.1.0",
+    "knex": "^0.95.6",
+    "nodemailer": "^6.6.2",
+    "nodemon": "^2.0.9",
+    "pg": "^8.6.0",
+    "random": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimamBinSaifTahmid/Against_Pandemic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimamBinSaifTahmid/Against_Pandemic/issues"
+  },
+  "homepage": "https://github.com/TimamBinSaifTahmid/Against_Pandemic#readme"
+}
